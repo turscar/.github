@@ -5,7 +5,7 @@ Dublin, Ireland.
 
 Our US sister company is [Word to the Wise](https://wordtothewise.com/).
 
-Both companies share the same principals - [Steve](https://twitter.com/wise_steve) & [Laura](https://twitter.com/wise_laura)
+Both companies share the same principals - [Steve](https://www.linkedin.com/in/lluad/) & [Laura](https://www.linkedin.com/in/lauraatkins/)
 Atkins - and staff.
 
 Most of our open source software is published under [wttw](https://github.com/wttw) but some will likely migrate to
